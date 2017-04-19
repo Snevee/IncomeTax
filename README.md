@@ -1,32 +1,32 @@
 <html>
 <body>
-<center><h1><u>INCOME TAX DEPARTMENT</u></h1></center>
-<marquee><u> SEO REPORT </u> </marquee>
+<b>INCOME TAX DEPARTMENT<b>
+<u> SEO REPORT </u> 
 <table>
 <tr>
-<td> Check </td>
-<td> Status </td>
-<td> Details</td>
+<td>Check</td>
+<td>Status</td>
+<td>Details</td>
 <td>Suggestions</td>
 </tr>
 <tr>
 <td>Page Title</td>
-<td>FOUND </td>
-<td>The Page title length of the page is 57 characters.<p> Page title can be upto 65 characters.</td>
-<td>Jesus & Mary College - Chanakyapuri,New Delhi </td>
+<td>FOUND</td>
+<td>The Page title length of the page is 57 characters<br> Page title can be upto 65 characters.</td>
+<td>Income Tax Department (ITD)-Government of India</td>
 </tr>
 <tr>
-<td> Meta Description </td>
-<td> NOT FOUND </td>
-<td> Their is no meta description in the page.<p>
- Meta descriptions can be upto 160 characters. </td>
-<td> Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
+<td>Meta Description</td>
+<td>NOT FOUND</td>
+<td>Their is no meta description in the page.<p>
+ Meta descriptions can be upto 160 characters.</td>
+<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
 <b>Meta description suggestion </b>: Income Tax Department (ITD) is a partner in the
 nation building process through progressive tax policy, efficient and effective tax
 administration and improved voluntary compliance. This is achieved by an
 enabling policy environment and augmenting the revenue mobilisation apparatus
 for optimum revenue collection under the law, while maintaining taxpayer confidence
-in the system. </td>
+in the system.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
@@ -36,23 +36,23 @@ in the system. </td>
 Keywords such as <b>TAX INFORMATION 
 AND SERVICES</b>, <b>TAX LAWS AND
 RULES</b>, <b>INTERNATIONAL 
-TAXATION</b> can be used. </td>
+TAXATION</b> can be used.</td>
 </tr>
 <tr>
-<td> H1 Headings </td>
-<td>  FOUND </td>
-<td>  Page contains headings </td>
-<td> H1 headings should be used as it effects the SEO of your page </td>
+<td>H1 Headings</td>
+<td>FOUND</td>
+<td>Page contains headings</td>
+<td>H1 headings should be used as it effects the SEO of your page</td>
 </tr>
 <tr>
-<td> H2 Headings </td>
-<td>  FOUND </td>
-<td> Page contains H2 headings. </td>
-<td>  H2 headings should be used as it effects the SEO of your page </td>
+<td>H2 Headings</td>
+<td>FOUND</td>
+<td>Page contains H2 headings.</td>
+<td>H2 headings should be used as it effects the SEO of your page</td>
 </tr>
 <tr>
 <td>Robots.txt</td>
-<td> NOT FOUND</td>
+<td>NOT FOUND</td>
 <td>This site does not use "robots.txt" file<p>
 </td>
 <td>Robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website.<p>

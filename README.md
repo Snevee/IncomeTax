@@ -1,7 +1,7 @@
 <html>
 <body>
-<b>INCOME TAX DEPARTMENT<b>
-<u> SEO REPORT </u> 
+<b>INCOME TAX DEPARTMENT</b> <br>
+<u> SEO REPORT </u> <br>
 <table>
 <tr>
 <td>Check</td>

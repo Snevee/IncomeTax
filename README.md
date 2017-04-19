@@ -1,6 +1,6 @@
 <html>
 <body>
-<center><h1><u><font size=10 color="black">INCOME TAX DEPARTMENT</font></u></h1></center>
+<center><h1><u>INCOME TAX DEPARTMENT</u></h1></center>
 <marquee><u> SEO REPORT </u> </marquee>
 <table>
 <tr>
@@ -129,8 +129,7 @@ http://www.incometaxindia.gov.in/-layouts/15/Authenticate.aspx?Source=%2FPages%2
 <td> PageRank is a way of measuring the importance of website pages. <p>
 More backlinks need to be used to increase the PR.</td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
 <th> Domain Information </th>
 <th> </th>
@@ -151,17 +150,16 @@ More backlinks need to be used to increase the PR.</td>
 <td>Updated Date</td>
 <td>2015-05-25</td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
 <td> SEO score </td>
 <td> 53 </td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
 <td> SEO Grade </td>
 <td><a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></a> </td>
+</tr>
 </table>
 <body/>
 <html/>

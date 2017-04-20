@@ -152,7 +152,6 @@ http://www.incometaxindia.gov.in/-layouts/15/Authenticate.aspx?Source=%2FPages%2
     <tr><td>53</td>
     </tr>
 </table>
-<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></a>
-<body/>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
 <html/>
 

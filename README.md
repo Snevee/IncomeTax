@@ -5,9 +5,9 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 </style>
 <body>
 <div align="center">
-  <b><u><h1 style="color:blue;">INCOME TAX DEPARTMENT</h1></u></b>
+  <b><u><h1 style="color:white;">INCOME TAX DEPARTMENT</h1></u></b>
 </div>
-<i><h2 style="color:blue;">SEO REPORT</h2></i>
+<i><h2 style="color:white;">SEO REPORT</h2></i>
 <table>
 <tr>
 <th><b>TAG</b></th>
@@ -32,7 +32,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td>NOT FOUND </td>
 <td>Their is no meta description in the page.<p>
  Meta descriptions can be upto 160 characters. </td> 
-<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
+<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<br>
 <b>Meta description suggestion </b> : Income Tax Department (ITD) is a partner in the
 nation building process through progressive tax policy, efficient and effective tax
 administration and improved voluntary compliance. This is achieved by an
@@ -45,7 +45,7 @@ in the system.</td>
 <td> Meta Keywords</td>
 <td>NOT FOUND </td>
 <td>Meta keywords are not found</td>
-<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<p>
+<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<br>
 Keywords such as <b>TAX INFORMATION 
 AND SERVICES</b>, <b>TAX LAWS AND
 RULES</b>, <b>INTERNATIONAL 
@@ -100,9 +100,9 @@ Web site owners use the /robots.txt file to give instructions about their site t
 <td>Underscores in Links Test	</td>
 <td>FOUND</td>
 <td>6 underscore links were found in the webpage</td>
-<td>Hyphens should be used instead of underscores.<p>
-Instead of http://www.incometaxindia.gov.in/_layouts/15/Authenticate.aspx?Source=%2FPages%2Fdefault%2Easpx we can use <p>
-http://www.incometaxindia.gov.in/-layouts/15/Authenticate.aspx?Source=%2FPages%2Fdefault%2Easpx<p>
+<td>Hyphens should be used instead of underscores.<br>
+Instead of http://www.incometaxindia.gov.in/_layouts/15/Authenticate.aspx?Source=%2FPages%2Fdefault%2Easpx we can use <br>
+http://www.incometaxindia.gov.in/-layouts/15/Authenticate.aspx?Source=%2FPages%2Fdefault%2Easpx<br>
 </td>
 </tr>
 <tr>
